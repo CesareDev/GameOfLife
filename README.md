@@ -1,10 +1,8 @@
 
-<div style="text-align:center">
-		<img src="img/gameoflife.gif" 
+<img src="img/gameoflife.gif" 
 			alt="Game Of Life preview" 
 			width="350"
-			style="clip-path:circle();"/>
-</div>
+			style="display: block; margin: 0 auto; clip-path:circle()"/>
 
 # Game Of Life
 
