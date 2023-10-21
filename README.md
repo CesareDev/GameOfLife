@@ -1,6 +1,6 @@
 
 <div style="text-align:center">
-		<img src="img/gameoflifeclip.gif" 
+		<img src="img/gameoflife.gif" 
 			alt="Game Of Life preview" 
 			width="350"
 			style="clip-path:circle();"/>
