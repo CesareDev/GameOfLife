@@ -1,5 +1,5 @@
 <p align="center">
-<img src="img/gameoflife.gif" alt="Game Of Life preview" width="150" style="border-radius:50%"/>
+<img src="img/gameoflife.gif" alt="Game Of Life preview" width="150"/>
 </p>
 
 # Game Of Life
