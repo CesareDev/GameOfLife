@@ -1,8 +1,6 @@
-
-<img src="img/gameoflife.gif" 
-			alt="Game Of Life preview" 
-			width="350"
-			style="display: block; margin: 0 auto; clip-path:circle()"/>
+![](img/gameoflife.gif){ alt="Game Of Life preview" 
+			width="150"
+			style="display: block; margin: 0 auto; clip-path:circle()" }
 
 # Game Of Life
 
