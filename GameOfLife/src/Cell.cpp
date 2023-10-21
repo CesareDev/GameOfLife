@@ -21,6 +21,7 @@ void Cell::Update(const std::vector<Cell>& cells, int cx, int cy)
 	{
 		for (int i = -1; i < 2; i++)
 		{
+			//Wrap around
 			int y = (cy + j + ROWS) % ROWS;
 			int x = (cx + i + COLS) % COLS;
 
